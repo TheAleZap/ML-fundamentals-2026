@@ -1,3 +1,7 @@
+# Individual Assignment I  
+## ML Fundamentals - Data Preparation and Pipeline Design  
+### Alejandro Zapata 
+
 Dependencies (install with pip):
 
 ```bash
